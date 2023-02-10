@@ -4,7 +4,6 @@ using UnityEngine;
 using LibMVCS = XTC.FMP.LIB.MVCS;
 using XTC.FMP.MOD.MagicPhotoDummyLayout.LIB.MVCS;
 using Live2D.Cubism.Extend;
-using UnityEditor.UIElements;
 
 namespace XTC.FMP.MOD.MagicPhotoDummyLayout.LIB.Unity
 {
