@@ -1,0 +1,19 @@
+
+/_dist_/
+/_build_/
+/MagicPhotoDummyLayout/Assets/TextMesh Pro/
+/MagicPhotoDummyLayout/Assets/TextMesh Pro.meta
+/MagicPhotoDummyLayout/Assets/Plugins/
+/MagicPhotoDummyLayout/Assets/Plugins.meta
+/MagicPhotoDummyLayout/Assets/3rd/
+/MagicPhotoDummyLayout/Assets/3rd.meta
+/MagicPhotoDummyLayout/Library/
+/MagicPhotoDummyLayout/obj/
+/MagicPhotoDummyLayout/Logs/
+/MagicPhotoDummyLayout/Temp/
+/MagicPhotoDummyLayout/UserSettings/
+/MagicPhotoDummyLayout/*.sln
+/MagicPhotoDummyLayout/*.csproj
+/MagicPhotoDummyLayout/.vsconfig
+/MagicPhotoDummyLayout/.vs/
+/.UNITY_HOME.env
