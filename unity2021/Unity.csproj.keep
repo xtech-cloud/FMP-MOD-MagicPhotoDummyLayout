@@ -81,6 +81,9 @@
     <Reference Include="UnityEngine.TextRenderingModule">
       <HintPath>{{UNITY_HOME}}\Editor\Data\Managed\UnityEngine\UnityEngine.TextRenderingModule.dll</HintPath>
     </Reference>
+    <Reference Include="UnityEngine.AnimationModule">
+      <HintPath>{{UNITY_HOME}}\Editor\Data\Managed\UnityEngine\UnityEngine.AnimationModule.dll</HintPath>
+    </Reference>
     <Reference Include="Live2D">
       <HintPath>{{WORK_DIR}}\MagicPhotoDummyLayout\Assets\3rd\Live2D-4.6.3\Live2DPlugin.dll</HintPath>
     </Reference>
